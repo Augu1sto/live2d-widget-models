@@ -1,6 +1,6 @@
 # live2d-widget-models(bangdream-kasumi)
 
-[English](./README - en.md)/[中文](README - zh.md)
+[English](README-en.md)/[中文](README.md)
 
 这个项目是[live2d-widget-models (github.com)](https://github.com/xiazeyu/live2d-widget-models)的扩展，加了邦邦bangdream里面户川香澄kasumi第128次活动的ssr卡的live2d模型。
 
@@ -16,7 +16,7 @@
 包的名字就是`packages/`里面的文件夹的名字
 目前只有:
 
-- `live2d-widget-model-kasumi_event128`
+- `live2d-widget-model-kasumi`
 
 可以从 [原项目](https://github.com/xiazeyu/live2d-widget-models) 或者本项目的[这个分支](https://github.com/Augu1sto/live2d-widget-models/tree/originalfromxiazeyu)里面查看原作者的所有模型。
 
