@@ -1,6 +1,6 @@
 # live2d-widget-models(bangdream-kasumi)
 
-[English](./README - en.md)/[中文](./README - zh.md)
+[English](README-en.md)/[中文](README.md)
 
 This project is the extension of [live2d-widget-models (github.com)](https://github.com/xiazeyu/live2d-widget-models)——the storage of live2d models.
 
@@ -15,7 +15,7 @@ use `npm install {packagename}`
 The package name is the folder name in `packages/`
 We have:
 
-- `live2d-widget-model-kasumi_event128`
+- `live2d-widget-model-kasumi`
 
 you can see all the models in [the origin project](https://github.com/xiazeyu/live2d-widget-models) or [this branch](https://github.com/Augu1sto/live2d-widget-models/tree/originalfromxiazeyu)
 
