@@ -8,9 +8,15 @@
     ],
     "layout": {
         "center_x": 0,
-        "y": 1.8,
-        "width": 2.9
+        "width": 2.4,
+        "y": 1.2
     },
+    "hit_areas": [
+        {
+            "name": "head",
+            "id": "D_PSD.36"
+        }
+    ],
     "motions": {
         "idle": [
             {
@@ -167,99 +173,131 @@
     },
     "expressions": [
         {
+            "name": "angry01",
             "file": "expressions/angry01.exp.json"
         },
         {
+            "name": "cry01",
             "file": "expressions/cry01.exp.json"
         },
         {
+            "name": "cry03",
             "file": "expressions/cry03.exp.json"
         },
         {
+            "name": "default",
             "file": "expressions/default.exp.json"
         },
         {
+            "name": "f01",
             "file": "expressions/f01.exp.json"
         },
         {
+            "name": "f02",
             "file": "expressions/f02.exp.json"
         },
         {
+            "name": "f03",
             "file": "expressions/f03.exp.json"
         },
         {
+            "name": "f04",
             "file": "expressions/f04.exp.json"
         },
         {
+            "name": "f05",
             "file": "expressions/f05.exp.json"
         },
         {
+            "name": "f06",
             "file": "expressions/f06.exp.json"
         },
         {
+            "name": "f07",
             "file": "expressions/f07.exp.json"
         },
         {
+            "name": "f08",
             "file": "expressions/f08.exp.json"
         },
         {
+            "name": "f09",
             "file": "expressions/f09.exp.json"
         },
         {
+            "name": "f10",
             "file": "expressions/f10.exp.json"
         },
         {
+            "name": "f11",
             "file": "expressions/f11.exp.json"
         },
         {
+            "name": "f12",
             "file": "expressions/f12.exp.json"
         },
         {
+            "name": "f13",
             "file": "expressions/f13.exp.json"
         },
         {
+            "name": "f14",
             "file": "expressions/f14.exp.json"
         },
         {
+            "name": "f15",
             "file": "expressions/f15.exp.json"
         },
         {
+            "name": "f16",
             "file": "expressions/f16.exp.json"
         },
         {
+            "name": "f17",
             "file": "expressions/f17.exp.json"
         },
         {
+            "name": "f18",
             "file": "expressions/f18.exp.json"
         },
         {
+            "name": "idle01",
             "file": "expressions/idle01.exp.json"
         },
         {
+            "name": "kime01",
             "file": "expressions/kime01.exp.json"
         },
         {
+            "name": "sad01",
             "file": "expressions/sad01.exp.json"
         },
         {
+            "name": "serious01",
             "file": "expressions/serious01.exp.json"
         },
         {
+            "name": "serious02",
             "file": "expressions/serious02.exp.json"
         },
         {
+            "name": "shame01",
             "file": "expressions/shame01.exp.json"
         },
         {
+            "name": "smile01",
             "file": "expressions/smile01.exp.json"
         },
         {
+            "name": "smile02",
             "file": "expressions/smile02.exp.json"
         },
         {
+            "name": "smile0.",
             "file": "expressions/smile03.exp.json"
         },
         {
+            "name": "surprised01",
             "file": "expressions/surprised01.exp.json"
         }
     ],
@@ -267,7 +305,7 @@
     "loop_params": [
         {
             "id": "PARAM_LOOP",
-            "duration": "3000",
+            "duration": "5000",
             "type": 0
         }
     ]

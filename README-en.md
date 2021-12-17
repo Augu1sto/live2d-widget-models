@@ -17,7 +17,11 @@ We have:
 
 - `live2d-widget-model-kasumi`
 
-you can see all the models in [the origin project](https://github.com/xiazeyu/live2d-widget-models) or [this branch](https://github.com/Augu1sto/live2d-widget-models/tree/originalfromxiazeyu)
+To some history reason, the old package `live2d-widget-model-kasumi_event-128` might be installed as a dependency， but it is of no use and you can delete it manually.
+
+
+
+You can see all the models in [the origin project](https://github.com/xiazeyu/live2d-widget-models) or [this branch](https://github.com/Augu1sto/live2d-widget-models/tree/originalfromxiazeyu)
 
  
 

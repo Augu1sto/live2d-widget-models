@@ -18,6 +18,8 @@
 
 - `live2d-widget-model-kasumi`
 
+因为一些历史原因，可能会连着下载`live2d-widget-model-kasumi_event-128`历史包，可以手动删除
+
 可以从 [原项目](https://github.com/xiazeyu/live2d-widget-models) 或者本项目的[这个分支](https://github.com/Augu1sto/live2d-widget-models/tree/originalfromxiazeyu)里面查看原作者的所有模型。
 
  
